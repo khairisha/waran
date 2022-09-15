@@ -137,6 +137,7 @@
                             <li><a href="./manage-komuniti.php"> <i class="fa fa-tasks menu-icon"></i><span class="nav-text">Klinik Komuniti</span></a></li>
                             <li><a href="./manage-pergigian.php"> <i class="fa fa-tasks menu-icon"></i><span class="nav-text">Klinik Pergigian Kerajaan</span></a></li>
                             <li><a href="./manage-institusi.php"> <i class="fa fa-tasks menu-icon"></i><span class="nav-text">Institusi Latihan</span></a></li>
+                            <li><a href="./manage-institusi.php"> <i class="fa fa-tasks menu-icon"></i><span class="nav-text">Rumah Bomoh</span></a></li>
                         </ul>
                     </li>
 
